@@ -6,6 +6,7 @@ import plotly.graph_objs as go
 
 # Initialize the app
 app = Dash(__name__, external_stylesheets=[dbc.themes.DARKLY])
+server = app.server
 
 # Alpha Vantage API key
 api_key = '4KFCDC6TZQ5KGR82'
