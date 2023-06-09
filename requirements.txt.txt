@@ -1,0 +1,7 @@
+dash
+alpha_vantage
+dash_bootstrap_components
+pandas
+plotly
+alpha_vantage.timeseries
+plotly.graph_objs
